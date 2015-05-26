@@ -1,6 +1,6 @@
 GIT
   remote: https://www.github.com/mskog/bengt
-  revision: 32ac652af03fae257022e80d2c42abab644f5b80
+  revision: 0326334272d1a6e2790f3aa577a28a4546db0c16
   specs:
     bengt (0.0.1)
       aws-sdk (~> 2.0)
