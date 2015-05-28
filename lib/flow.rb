@@ -21,7 +21,7 @@ module Gunnar
         end
 
         @actions.each do |action|
-          action[:action_klass].new(action[:options]).perform(post)
+          action[:action_klass].new(action[:options]).perform(post) rescue nil
         end
 
         sleep 1

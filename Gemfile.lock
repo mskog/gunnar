@@ -1,6 +1,6 @@
 GIT
   remote: https://www.github.com/mskog/bengt
-  revision: 0326334272d1a6e2790f3aa577a28a4546db0c16
+  revision: a3d398a47e16f5994bea7c4460c1ca989adcad0c
   specs:
     bengt (0.0.1)
       aws-sdk (~> 2.0)
@@ -15,14 +15,14 @@ GEM
   remote: https://www.rubygems.org/
   specs:
     addressable (2.3.8)
-    aws-sdk (2.0.45)
-      aws-sdk-resources (= 2.0.45)
-    aws-sdk-core (2.0.45)
+    aws-sdk (2.0.46)
+      aws-sdk-resources (= 2.0.46)
+    aws-sdk-core (2.0.46)
       builder (~> 3.0)
       jmespath (~> 1.0)
       multi_json (~> 1.0)
-    aws-sdk-resources (2.0.45)
-      aws-sdk-core (= 2.0.45)
+    aws-sdk-resources (2.0.46)
+      aws-sdk-core (= 2.0.46)
     axiom-types (0.1.1)
       descendants_tracker (~> 0.0.4)
       ice_nine (~> 0.11.0)
